@@ -12,7 +12,7 @@ lightning, torchmetrics, eval, torcheval, datasets, ignite, litdata, safetensors
 apex, accelerate, torchao, thunder, deepspeed, bitsandbytes, optimum, torch-xla, peft, https://github.com/jettify/pytorch-optimizer, https://github.com/ray-project/ray
 
 ## NLP
-transformers, torchchat, torchtune, trl, trlx, litgpt, https://github.com/flairNLP/flair, https://github.com/NVIDIA/NeMo, https://github.com/fastai/fastai
+transformers, torchchat, torchtune, trl, trlx, litgpt, https://github.com/flairNLP/flair, https://github.com/NVIDIA/NeMo, https://github.com/fastai/fastai, liger-kernels, unsloth, kernl, turbo alignment
 
 ## Audio
 torchaudio, speechbrain, torch-audmentation
