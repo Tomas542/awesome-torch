@@ -39,19 +39,18 @@
 
 ## NLP
 - [transformers](https://github.com/huggingface/transformers) - set of classes for model loading, inference, training <b>(hf)</b> <img src="https://img.shields.io/github/stars/huggingface/transformers?style=social" align="center">
-- torchchat <b>(pt)</b> <img src="https://img.shields.io/github/stars/pytorch/ignite?style=social" align="center">
-- torchtune <b>(pt)</b> <img src="https://img.shields.io/github/stars/pytorch/ignite?style=social" align="center">
+- [torchchat](https://github.com/pytorch/torchchat) - inference LLM's <b>(pt)</b> <img src="https://img.shields.io/github/stars/pytorch/torchchat?style=social" align="center">
+- [torchtune](https://github.com/pytorch/torchtune) - model fine-tuning <b>(pt)</b> <img src="https://img.shields.io/github/stars/pytorch/torchtune?style=social" align="center">
 - [trl](https://github.com/huggingface/trl) - Reinforcement Learning training classes <b>(hf)</b> <img src="https://img.shields.io/github/stars/huggingface/trl?style=social" align="center">
 - [trlx](https://github.com/CarperAI/trlx) - implementations of Reinforcement Learning algorithms <b>(archived)</b> <img src="https://img.shields.io/github/stars/CarperAI/trlx?style=social" align="center">
 - [litgpt](https://github.com/Lightning-AI/litgpt) - number of recipies for model's training, ft and other <b>(l)</b> <img src="https://img.shields.io/github/stars/Lightning-AI/litgpt?style=social" align="center">
-- [Flair](https://github.com/flairNLP/flair)
-- [NeMo](https://github.com/NVIDIA/NeMo)
-- [FastAI](https://github.com/fastai/fastai)
-- liger-kernels
-- unsloth
-- kernl
-- xformer
-- turbo alignment
+- [Flair](https://github.com/flairNLP/flair) - NLP tools <img src="https://img.shields.io/github/stars/flairNLP/flair?style=social" align="center">
+- [NeMo](https://github.com/NVIDIA/NeMo) - toolkit for model training and inference <img src="https://img.shields.io/github/stars/NVIDIA/NeMo?style=social" align="center">
+- [FastAI](https://github.com/fastai/fastai) - toolkit for CV and NLP <img src="https://img.shields.io/github/stars/fastai/fastai?style=social" align="center">
+- [Liger-Kernel](https://github.com/linkedin/Liger-Kernel) - `tranformers` LLMs optimised with Triton <img src="https://img.shields.io/github/stars/linkedin/Liger-Kernel?style=social" align="center">
+- [unsloth](https://github.com/unslothai/unsloth) - optimised `tranformers` LLMs <img src="https://img.shields.io/github/stars/unslothai/unsloth?style=social" align="center">
+- [xformer](https://github.com/facebookresearch/xformers) - cuda kernels and  <b>(fr)</b><img src="https://img.shields.io/github/stars/facebookresearch/xformers?style=social" align="center">
+- [Turbo-Alignment](https://github.com/turbo-llm/turbo-alignment) - utils for LLM training from T-Bank <img src="https://img.shields.io/github/stars/turbo-llm/turbo-alignment?style=social" align="center">
 
 ## Audio
 - [torchaudio](https://github.com/pytorch/audio) - audio transformations, datasets and models <b>(pt)</b> <img src="https://img.shields.io/github/stars/pytorch/audio?style=social" align="center">
@@ -60,12 +59,12 @@
 - [dataspeech](https://github.com/huggingface/dataspeech) - audio transformations <b>(hf)</b> <img src="https://img.shields.io/github/stars/huggingface/dataspeech?style=social" align="center">
 
 ## CV
-- torchvision <b>(pt)</b> <img src="https://img.shields.io/github/stars/pytorch/ignite?style=social" align="center">
-- [Albumentations](https://github.com/albumentations-team/albumentations)
-- [Augmentor](https://github.com/mdbloice/Augmentor)
+- [torchvision](https://github.com/pytorch/vision) - datasets, models, picture manipulations <b>(pt)</b> <img src="https://img.shields.io/github/stars/pytorch/vision?style=social" align="center">
+- [Albumentations](https://github.com/albumentations-team/albumentations) - picture manipulation <img src="https://img.shields.io/github/stars/albumentations-team/albumentations?style=social" align="center">
+- [Augmentor](https://github.com/mdbloice/Augmentor) - picture augmentations <img src="https://img.shields.io/github/stars/mdbloice/Augmentor?style=social" align="center">
 - [PyTorch3D](https://github.com/facebookresearch/pytorch3d) - 3D video utils <b>(fr)</b> <img src="https://img.shields.io/github/stars/facebookresearch/pytorch3d?style=social" align="center">
 - [PyTorchVideo](https://github.com/facebookresearch/pytorchvideo) - video utils <b>(fr)</b> <img src="https://img.shields.io/github/stars/facebookresearch/pytorchvideo?style=social" align="center">
-- fast forward computer vision
+- [Fast Forward Computer Vision](https://github.com/libffcv/ffcv) - picture data manipulations and loading (recommended by Meta) <img src="https://img.shields.io/github/stars/libffcv/ffcv?style=social" align="center">
 
 ## Graph
 - [PyG](https://github.com/pyg-team/pytorch_geometric) - PyTorch Graph NN <img src="https://img.shields.io/github/stars/pyg-team/pytorch_geometric?style=social" align="center">
@@ -74,8 +73,8 @@
 ## Other
 - [torchrec](https://github.com/pytorch/torchrec) <b>(pt)</b> <img src="https://img.shields.io/github/stars/pytorch/torchrec?style=social" align="center">
 - [diffusers](https://github.com/huggingface/diffusers) - classes and methods for Diffusion models use <b>(hf)</b> <img src="https://img.shields.io/github/stars/huggingface/diffusers?style=social" align="center">
-- [PyRo](https://github.com/pyro-ppl/pyro)
-- [torchgeo](https://github.com/microsoft/torchgeo)
-- [gpytorch](https://github.com/cornellius-gp/gpytorch)
-- [boTorch](https://github.com/pytorch/botorch) <b>(pt)</b> <img src="https://img.shields.io/github/stars/pytorch/botorch?style=social" align="center">
+- [PyRo](https://github.com/pyro-ppl/pyro) - probabilistic programming <img src="https://img.shields.io/github/stars/pyro-ppl/pyro?style=social" align="center">
+- [torchgeo](https://github.com/microsoft/torchgeo) - geo analytics <img src="https://img.shields.io/github/stars/microsoft/torchgeo?style=social" align="center">
+- [gpytorch](https://github.com/cornellius-gp/gpytorch) - Gaussian process library <img src="https://img.shields.io/github/stars/cornellius-gp/gpytorch?style=social" align="center">
+- [boTorch](https://github.com/pytorch/botorch) - bayesian optimizations <b>(pt)</b> <img src="https://img.shields.io/github/stars/pytorch/botorch?style=social" align="center">
 - [torchio](https://github.com/fepegar/torchio) - medical images manipulations <img src="https://img.shields.io/github/stars/fepegar/torchio?style=social" align="center">
