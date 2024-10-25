@@ -10,15 +10,16 @@
 - [Lightning](https://github.com/Lightning-AI/pytorch-lightning) - PyTorch wrapper <b>(l)</b> <img src="https://img.shields.io/github/stars/Lightning-AI/pytorch-lightning?style=social" align="center">
 - [Ignite](https://github.com/pytorch/ignite) - wrapper from PyTorch <b>(pt)</b> <img src="https://img.shields.io/github/stars/pytorch/ignite?style=social" align="center">
 - [torchmetrics](https://github.com/Lightning-AI/torchmetrics) - metrics, computing on chosen devices <b>(l)</b> <img src="https://img.shields.io/github/stars/Lightning-AI/torchmetrics?style=social" align="center">
--  [evaluate](https://github.com/huggingface/evaluate) - HF collections of metrics <b>(hf)</b> <img src="https://img.shields.io/github/stars/huggingface/evaluate?style=social" align="center">
--  [torcheval](https://github.com/pytorch/torcheval) - set of metrics, that can run on multiple devices <b>(pt)</b> <img src="https://img.shields.io/github/stars/pytorch/torcheval?style=social" align="center">
--  [datasets](https://github.com/huggingface/datasets) - library with map method and ability to work easily with HuggingFace <b>(hf)</b> <img src="https://img.shields.io/github/stars/huggingface/datasets?style=social" align="center">
--  [litdata](https://github.com/Lightning-AI/litdata) - datasets workaround with scaling and other <b>(l)</b> <img src="https://img.shields.io/github/stars/Lightning-AI/litdata?style=social" align="center">
--  [safetensors](https://github.com/huggingface/safetensors) - model saving and storing<b>(hf)</b> <img src="https://img.shields.io/github/stars/huggingface/safetensors?style=social" align="center">
--  [gradio](https://github.com/gradio-app/gradio) - easy model serving with frontend  <img src="https://img.shields.io/github/stars/gradio-app/gradio?style=social" align="center">
--  [streamlit](https://github.com/streamlit/streamlit) - model serving <img src="https://img.shields.io/github/stars/streamlit/streamlit?style=social" align="center">
--  [LitServe](https://github.com/Lightning-AI/LitServe) - scalable serving <b>(l)</b> <img src="https://img.shields.io/github/stars/Lightning-AI/LitServe?style=social" align="center">
--  [Hydra](https://github.com/facebookresearch/hydra) - configuring development <b>(fr)</b><img src="https://img.shields.io/github/stars/facebookresearch/hydra?style=social" align="center">
+- [evaluate](https://github.com/huggingface/evaluate) - HF collections of metrics <b>(hf)</b> <img src="https://img.shields.io/github/stars/huggingface/evaluate?style=social" align="center">
+- [torcheval](https://github.com/pytorch/torcheval) - set of metrics, that can run on multiple devices <b>(pt)</b> <img src="https://img.shields.io/github/stars/pytorch/torcheval?style=social" align="center">
+- [datasets](https://github.com/huggingface/datasets) - library with map method and ability to work easily with HuggingFace <b>(hf)</b> <img src="https://img.shields.io/github/stars/huggingface/datasets?style=social" align="center">
+- [litdata](https://github.com/Lightning-AI/litdata) - datasets workaround with scaling and other <b>(l)</b> <img src="https://img.shields.io/github/stars/Lightning-AI/litdata?style=social" align="center">
+- [safetensors](https://github.com/huggingface/safetensors) - model saving and storing<b>(hf)</b> <img src="https://img.shields.io/github/stars/huggingface/safetensors?style=social" align="center">
+- [gradio](https://github.com/gradio-app/gradio) - easy model serving with frontend  <img src="https://img.shields.io/github/stars/gradio-app/gradio?style=social" align="center">
+- [streamlit](https://github.com/streamlit/streamlit) - model serving <img src="https://img.shields.io/github/stars/streamlit/streamlit?style=social" align="center">
+- [LitServe](https://github.com/Lightning-AI/LitServe) - scalable serving <b>(l)</b> <img src="https://img.shields.io/github/stars/Lightning-AI/LitServe?style=social" align="center">
+- [einops](https://github.com/arogozhnikov/einops) - performant tensor operations <img src="https://img.shields.io/github/stars/arogozhnikov/einops?style=social" align="center">
+- [Hydra](https://github.com/facebookresearch/hydra) - configuring development <b>(fr)</b><img src="https://img.shields.io/github/stars/facebookresearch/hydra?style=social" align="center">
 
 ## Optimizations and fine-tuning
 - [pytorch-optimizer](https://github.com/jettify/pytorch-optimizer) - set of optimziers from research papers <b>(archived)</b> <img src="https://img.shields.io/github/stars/jettify/pytorch-optimizer?style=social" align="center">
