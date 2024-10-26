@@ -52,6 +52,11 @@
 - [unsloth](https://github.com/unslothai/unsloth) - optimised `tranformers` LLMs <img src="https://img.shields.io/github/stars/unslothai/unsloth?style=social" align="center">
 - [xformer](https://github.com/facebookresearch/xformers) - cuda kernels and  <b>(fr)</b><img src="https://img.shields.io/github/stars/facebookresearch/xformers?style=social" align="center">
 - [Turbo-Alignment](https://github.com/turbo-llm/turbo-alignment) - utils for LLM training from T-Bank <img src="https://img.shields.io/github/stars/turbo-llm/turbo-alignment?style=social" align="center">
+-  [vllm](https://github.com/vllm-project/vllm) - local LLM serving <img src="https://img.shields.io/github/stars/vllm-project/vllm?style=social" align="center">
+-  [LangChain](https://github.com/langchain-ai/langchain) - LLM inference with prompts and tricks to built Chain-of-tasks <img src="https://img.shields.io/github/stars/langchain-ai/langchain?style=social" align="center">
+- [LangGraph](https://github.com/langchain-ai/langgraph) - LLM graphs (RAG, as far as I know) <img src="https://img.shields.io/github/stars/langchain-ai/langgraph?style=social" align="center">
+-  [ollama](https://github.com/ollama/ollama) - local LLM inferenece <img src="https://img.shields.io/github/stars/ollama/ollama?style=social" align="center">
+
 
 ## Audio
 - [torchaudio](https://github.com/pytorch/audio) - audio transformations, datasets and models <b>(pt)</b> <img src="https://img.shields.io/github/stars/pytorch/audio?style=social" align="center">
