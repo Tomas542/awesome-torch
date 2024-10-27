@@ -19,7 +19,8 @@
 - [streamlit](https://github.com/streamlit/streamlit) - model serving <img src="https://img.shields.io/github/stars/streamlit/streamlit?style=social" align="center">
 - [LitServe](https://github.com/Lightning-AI/LitServe) - scalable serving <b>(l)</b> <img src="https://img.shields.io/github/stars/Lightning-AI/LitServe?style=social" align="center">
 - [einops](https://github.com/arogozhnikov/einops) - performant tensor operations <img src="https://img.shields.io/github/stars/arogozhnikov/einops?style=social" align="center">
-- [Hydra](https://github.com/facebookresearch/hydra) - configuring development <b>(fr)</b><img src="https://img.shields.io/github/stars/facebookresearch/hydra?style=social" align="center">
+- [Hydra](https://github.com/facebookresearch/hydra) - configuring development <b>(fr)</b> <img src="https://img.shields.io/github/stars/facebookresearch/hydra?style=social" align="center">
+- [ART](https://github.com/Trusted-AI/adversarial-robustness-toolbox) - adversarial attacks on different modalities <img src="https://img.shields.io/github/stars/Trusted-AI/adversarial-robustness-toolbox?style=social" align="center">
 
 ## Optimizations and fine-tuning
 - [pytorch-optimizer](https://github.com/jettify/pytorch-optimizer) - set of optimziers from research papers <b>(archived)</b> <img src="https://img.shields.io/github/stars/jettify/pytorch-optimizer?style=social" align="center">
@@ -72,6 +73,7 @@
 - [PyTorchVideo](https://github.com/facebookresearch/pytorchvideo) - video utils (new commits, but ignroed pull requests and issues, no PyPI packge update for 3 years) <b>(fr)</b> <img src="https://img.shields.io/github/stars/facebookresearch/pytorchvideo?style=social" align="center">
 - [Fast Forward Computer Vision](https://github.com/libffcv/ffcv) - picture data manipulations and loading (recommended by Meta) <img src="https://img.shields.io/github/stars/libffcv/ffcv?style=social" align="center">
 - [torchattacks](https://github.com/Harry24k/adversarial-attacks-pytorch) - adversarial attacks on images <b>(archived)</b> <img src="https://img.shields.io/github/stars/Harry24k/adversarial-attacks-pytorch?style=social" align="center">
+- [Foolbox](https://github.com/bethgelab/foolbox) - adversarial attacks on image models <img src="https://img.shields.io/github/stars/bethgelab/foolbox?style=social" align="center">
 
 ## Graph
 - [PyG](https://github.com/pyg-team/pytorch_geometric) - PyTorch Graph NN <img src="https://img.shields.io/github/stars/pyg-team/pytorch_geometric?style=social" align="center">
