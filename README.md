@@ -34,9 +34,6 @@
 - [torch-xla](https://github.com/pytorch/xla) - backend for XLA computing <b>(pt)</b> <img src="https://img.shields.io/github/stars/pytorch/xla?style=social" align="center">
 - [PEFT](https://github.com/huggingface/peft) - efficient fine-tuning techniques <b>(hf)</b> <img src="https://img.shields.io/github/stars/huggingface/peft?style=social" align="center">
 - [Ray](https://github.com/ray-project/ray) - hyperparameter optimizations, distributed training and other <img src="https://img.shields.io/github/stars/ray-project/ray?style=social" align="center">
--  [vllm](https://github.com/vllm-project/vllm) - local LLM serving <img src="https://img.shields.io/github/stars/vllm-project/vllm?style=social" align="center">
--  [LangChain](https://github.com/langchain-ai/langchain) - LLM inference with prompts and tricks to built Chain-of-tasks <img src="https://img.shields.io/github/stars/langchain-ai/langchain?style=social" align="center">
--  [ollama](https://github.com/ollama/ollama) - local LLM inferenece <img src="https://img.shields.io/github/stars/ollama/ollama?style=social" align="center">
 
 ## NLP
 - [transformers](https://github.com/huggingface/transformers) - set of classes for model loading, inference, training <b>(hf)</b> <img src="https://img.shields.io/github/stars/huggingface/transformers?style=social" align="center">
