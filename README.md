@@ -55,7 +55,7 @@
 -  [vllm](https://github.com/vllm-project/vllm) - local LLM serving <img src="https://img.shields.io/github/stars/vllm-project/vllm?style=social" align="center">
 -  [LangChain](https://github.com/langchain-ai/langchain) - LLM inference with prompts and tricks to built Chain-of-tasks <img src="https://img.shields.io/github/stars/langchain-ai/langchain?style=social" align="center">
 - [LangGraph](https://github.com/langchain-ai/langgraph) - LLM graphs (RAG, as far as I know) <img src="https://img.shields.io/github/stars/langchain-ai/langgraph?style=social" align="center">
--  [ollama](https://github.com/ollama/ollama) - local LLM inferenece <img src="https://img.shields.io/github/stars/ollama/ollama?style=social" align="center">
+- [ollama](https://github.com/ollama/ollama) - local LLM inferenece <img src="https://img.shields.io/github/stars/ollama/ollama?style=social" align="center">
 
 
 ## Audio
@@ -63,6 +63,8 @@
 - [SpeechBrain](https://github.com/speechbrain/speechbrain) - set of transformations (augmentations), models and functions <img src="https://img.shields.io/github/stars/speechbrain/speechbrain?style=social" align="center">
 - [torch-audmentation](https://github.com/asteroid-team/torch-audiomentations) - transformations, augmentations <img src="https://img.shields.io/github/stars/asteroid-team/torch-audiomentations?style=social" align="center">
 - [dataspeech](https://github.com/huggingface/dataspeech) - audio transformations <b>(hf)</b> <img src="https://img.shields.io/github/stars/huggingface/dataspeech?style=social" align="center">
+- [robust_speech](https://github.com/RaphaelOlivier/robust_speech) - adversarial attacks, based on SpeechBrain <b>(archived)</b> <img src="https://img.shields.io/github/stars/RaphaelOlivier/robust_speech?style=social" align="center">
+- [whisper_attack](https://github.com/RaphaelOlivier/whisper_attack) - adversarial attacks on Whisper <b>(archived)</b> <img src="https://img.shields.io/github/stars/RaphaelOlivier/whisper_attack?style=social" align="center">
 
 ## CV
 - [torchvision](https://github.com/pytorch/vision) - datasets, models, picture manipulations <b>(pt)</b> <img src="https://img.shields.io/github/stars/pytorch/vision?style=social" align="center">
@@ -71,6 +73,7 @@
 - [PyTorch3D](https://github.com/facebookresearch/pytorch3d) - 3D video utils <b>(fr)</b> <img src="https://img.shields.io/github/stars/facebookresearch/pytorch3d?style=social" align="center">
 - [PyTorchVideo](https://github.com/facebookresearch/pytorchvideo) - video utils <b>(fr)</b> <img src="https://img.shields.io/github/stars/facebookresearch/pytorchvideo?style=social" align="center">
 - [Fast Forward Computer Vision](https://github.com/libffcv/ffcv) - picture data manipulations and loading (recommended by Meta) <img src="https://img.shields.io/github/stars/libffcv/ffcv?style=social" align="center">
+- [torchattacks](https://github.com/Harry24k/adversarial-attacks-pytorch) - adversarial attacks on images <b>(archived)</b><img src="https://img.shields.io/github/stars/Harry24k/adversarial-attacks-pytorch?style=social" align="center">
 
 ## Graph
 - [PyG](https://github.com/pyg-team/pytorch_geometric) - PyTorch Graph NN <img src="https://img.shields.io/github/stars/pyg-team/pytorch_geometric?style=social" align="center">
