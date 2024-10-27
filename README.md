@@ -21,6 +21,7 @@
 - [einops](https://github.com/arogozhnikov/einops) - performant tensor operations <img src="https://img.shields.io/github/stars/arogozhnikov/einops?style=social" align="center">
 - [Hydra](https://github.com/facebookresearch/hydra) - configuring development <b>(fr)</b> <img src="https://img.shields.io/github/stars/facebookresearch/hydra?style=social" align="center">
 - [ART](https://github.com/Trusted-AI/adversarial-robustness-toolbox) - adversarial attacks on different modalities <img src="https://img.shields.io/github/stars/Trusted-AI/adversarial-robustness-toolbox?style=social" align="center">
+- [Fairseq](https://github.com/facebookresearch/fairseq) - Facebook package with pre-trained models and other stuff <b>(fr)</b> <img src="https://img.shields.io/github/stars/facebookresearch/fairseq?style=social" align="center">
 
 ## Optimizations and fine-tuning
 - [pytorch-optimizer](https://github.com/jettify/pytorch-optimizer) - set of optimziers from research papers <b>(archived)</b> <img src="https://img.shields.io/github/stars/jettify/pytorch-optimizer?style=social" align="center">
