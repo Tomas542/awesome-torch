@@ -68,9 +68,10 @@
 - [Albumentations](https://github.com/albumentations-team/albumentations) - picture manipulation <img src="https://img.shields.io/github/stars/albumentations-team/albumentations?style=social" align="center">
 - [Augmentor](https://github.com/mdbloice/Augmentor) - picture augmentations <img src="https://img.shields.io/github/stars/mdbloice/Augmentor?style=social" align="center">
 - [PyTorch3D](https://github.com/facebookresearch/pytorch3d) - 3D video utils <b>(fr)</b> <img src="https://img.shields.io/github/stars/facebookresearch/pytorch3d?style=social" align="center">
-- [PyTorchVideo](https://github.com/facebookresearch/pytorchvideo) - video utils <b>(fr)</b> <img src="https://img.shields.io/github/stars/facebookresearch/pytorchvideo?style=social" align="center">
+- [torchcodec](https://github.com/pytorch/torchcodec) - video reading into tensors <b>(pt)</b> <img src="https://img.shields.io/github/stars/pytorch/torchcodec?style=social" align="center">
+- [PyTorchVideo](https://github.com/facebookresearch/pytorchvideo) - video utils (new commits, but ignroed pull requests and issues, no PyPI packge update for 3 years) <b>(fr)</b> <img src="https://img.shields.io/github/stars/facebookresearch/pytorchvideo?style=social" align="center">
 - [Fast Forward Computer Vision](https://github.com/libffcv/ffcv) - picture data manipulations and loading (recommended by Meta) <img src="https://img.shields.io/github/stars/libffcv/ffcv?style=social" align="center">
-- [torchattacks](https://github.com/Harry24k/adversarial-attacks-pytorch) - adversarial attacks on images <b>(archived)</b><img src="https://img.shields.io/github/stars/Harry24k/adversarial-attacks-pytorch?style=social" align="center">
+- [torchattacks](https://github.com/Harry24k/adversarial-attacks-pytorch) - adversarial attacks on images <b>(archived)</b> <img src="https://img.shields.io/github/stars/Harry24k/adversarial-attacks-pytorch?style=social" align="center">
 
 ## Graph
 - [PyG](https://github.com/pyg-team/pytorch_geometric) - PyTorch Graph NN <img src="https://img.shields.io/github/stars/pyg-team/pytorch_geometric?style=social" align="center">
