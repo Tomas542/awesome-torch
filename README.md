@@ -25,6 +25,7 @@
 
 ## Optimizations and fine-tuning
 - [pytorch-optimizer](https://github.com/jettify/pytorch-optimizer) - set of optimziers from research papers <b>(archived)</b> <img src="https://img.shields.io/github/stars/jettify/pytorch-optimizer?style=social" align="center">
+- [schedule_free](https://github.com/facebookresearch/schedule_free) - SGD and Adam implementation with no need to scheduler use <b>(fr)</b> <img src="https://img.shields.io/github/stars/facebookresearch/schedule_free?style=social" align="center">
 - [apex](https://github.com/NVIDIA/apex) - experimental features (mostly in torch already) <img src="https://img.shields.io/github/stars/NVIDIA/apex?style=social" align="center">
 - [accelerate](https://github.com/huggingface/accelerate) - library for easier distributed training <b>(hf)</b> <img src="https://img.shields.io/github/stars/huggingface/accelerate?style=social" align="center">
 - [thunder](https://github.com/Lightning-AI/lightning-thunder) - different optimization techniques together <b>(l)</b> <img src="https://img.shields.io/github/stars/Lightning-AI/lightning-thunder?style=social" align="center">
