@@ -18,6 +18,7 @@
 - [gradio](https://github.com/gradio-app/gradio) - easy model serving with frontend  <img src="https://img.shields.io/github/stars/gradio-app/gradio?style=social" align="center">
 - [streamlit](https://github.com/streamlit/streamlit) - model serving <img src="https://img.shields.io/github/stars/streamlit/streamlit?style=social" align="center">
 - [LitServe](https://github.com/Lightning-AI/LitServe) - scalable serving <b>(l)</b> <img src="https://img.shields.io/github/stars/Lightning-AI/LitServe?style=social" align="center">
+- [TorchServe](https://github.com/pytorch/serve) - serving torch models <b>(pt)</b> <img src="https://img.shields.io/github/stars/pytorch/serve?style=social" align="center">
 - [einops](https://github.com/arogozhnikov/einops) - performant tensor operations <img src="https://img.shields.io/github/stars/arogozhnikov/einops?style=social" align="center">
 - [Hydra](https://github.com/facebookresearch/hydra) - configuring development <b>(fr)</b> <img src="https://img.shields.io/github/stars/facebookresearch/hydra?style=social" align="center">
 - [ART](https://github.com/Trusted-AI/adversarial-robustness-toolbox) - adversarial attacks on different modalities <img src="https://img.shields.io/github/stars/Trusted-AI/adversarial-robustness-toolbox?style=social" align="center">
