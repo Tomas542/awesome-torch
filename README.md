@@ -8,6 +8,8 @@
 
 ## General
 - [Lightning](https://github.com/Lightning-AI/pytorch-lightning) - PyTorch wrapper <b>(l)</b> <img src="https://img.shields.io/github/stars/Lightning-AI/pytorch-lightning?style=social" align="center">
+- [Lightning Bolts](https://github.com/Lightning-Universe/lightning-bolts) - additional modules for Lightning <img src="https://img.shields.io/github/stars/Lightning-Universe/lightning-bolts?style=social" align="center">
+- [Lightning Havemind](https://github.com/Lightning-Universe/lightning-Hivemind) - Lightning extension for multi-node training <img src="https://img.shields.io/github/stars/Lightning-Universe/lightning-Hivemind?style=social" align="center">
 - [Ignite](https://github.com/pytorch/ignite) - wrapper from PyTorch <b>(pt)</b> <img src="https://img.shields.io/github/stars/pytorch/ignite?style=social" align="center">
 - [torchmetrics](https://github.com/Lightning-AI/torchmetrics) - metrics, computing on chosen devices <b>(l)</b> <img src="https://img.shields.io/github/stars/Lightning-AI/torchmetrics?style=social" align="center">
 - [evaluate](https://github.com/huggingface/evaluate) - HF collections of metrics <b>(hf)</b> <img src="https://img.shields.io/github/stars/huggingface/evaluate?style=social" align="center">
