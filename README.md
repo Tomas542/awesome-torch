@@ -22,6 +22,7 @@
 - [LitServe](https://github.com/Lightning-AI/LitServe) - scalable serving <b>(l)</b> <img src="https://img.shields.io/github/stars/Lightning-AI/LitServe?style=social" align="center">
 - [TorchServe](https://github.com/pytorch/serve) - serving torch models <b>(pt)</b> <img src="https://img.shields.io/github/stars/pytorch/serve?style=social" align="center">
 - [einops](https://github.com/arogozhnikov/einops) - performant tensor operations <img src="https://img.shields.io/github/stars/arogozhnikov/einops?style=social" align="center">
+- [Causal convolution 1D](https://github.com/Dao-AILab/causal-conv1d) - optimized causal 1D convolution <img src="https://img.shields.io/github/stars/Dao-AILab/causal-conv1d?style=social" align="center">
 - [Hydra](https://github.com/facebookresearch/hydra) - configuring development <b>(fr)</b> <img src="https://img.shields.io/github/stars/facebookresearch/hydra?style=social" align="center">
 - [ART](https://github.com/Trusted-AI/adversarial-robustness-toolbox) - adversarial attacks on different modalities <img src="https://img.shields.io/github/stars/Trusted-AI/adversarial-robustness-toolbox?style=social" align="center">
 - [Fairseq](https://github.com/facebookresearch/fairseq) - Facebook package with pre-trained models and other stuff <b>(fr)</b> <img src="https://img.shields.io/github/stars/facebookresearch/fairseq?style=social" align="center">
@@ -29,6 +30,7 @@
 ## Optimizations and fine-tuning
 - [pytorch-optimizer](https://github.com/jettify/pytorch-optimizer) - set of optimziers from research papers <b>(archived)</b> <img src="https://img.shields.io/github/stars/jettify/pytorch-optimizer?style=social" align="center">
 - [schedule_free](https://github.com/facebookresearch/schedule_free) - SGD and Adam implementation with no need to scheduler use <b>(fr)</b> <img src="https://img.shields.io/github/stars/facebookresearch/schedule_free?style=social" align="center">
+- [optimizers](https://github.com/facebookresearch/optimizers) - tensor-optimised optimizers <b>(fr)</b> <img src="https://img.shields.io/github/stars/facebookresearch/optimizers?style=social" align="center">
 - [apex](https://github.com/NVIDIA/apex) - experimental features (mostly in torch already) <img src="https://img.shields.io/github/stars/NVIDIA/apex?style=social" align="center">
 - [accelerate](https://github.com/huggingface/accelerate) - library for easier distributed training <b>(hf)</b> <img src="https://img.shields.io/github/stars/huggingface/accelerate?style=social" align="center">
 - [thunder](https://github.com/Lightning-AI/lightning-thunder) - different optimization techniques together <b>(l)</b> <img src="https://img.shields.io/github/stars/Lightning-AI/lightning-thunder?style=social" align="center">
@@ -44,10 +46,11 @@
 ## NLP
 - [transformers](https://github.com/huggingface/transformers) - set of classes for model loading, inference, training <b>(hf)</b> <img src="https://img.shields.io/github/stars/huggingface/transformers?style=social" align="center">
 - [torchchat](https://github.com/pytorch/torchchat) - inference LLM's <b>(pt)</b> <img src="https://img.shields.io/github/stars/pytorch/torchchat?style=social" align="center">
-- [torchtune](https://github.com/pytorch/torchtune) - model fine-tuning <b>(pt)</b> <img src="https://img.shields.io/github/stars/pytorch/torchtune?style=social" align="center">
+- [torchtune](https://github.com/pytorch/torchtune) - model fine-tuning (there are ready scripts) <b>(pt)</b> <img src="https://img.shields.io/github/stars/pytorch/torchtune?style=social" align="center">
 - [trl](https://github.com/huggingface/trl) - Reinforcement Learning training classes <b>(hf)</b> <img src="https://img.shields.io/github/stars/huggingface/trl?style=social" align="center">
 - [trlx](https://github.com/CarperAI/trlx) - implementations of Reinforcement Learning algorithms <b>(archived)</b> <img src="https://img.shields.io/github/stars/CarperAI/trlx?style=social" align="center">
 - [litgpt](https://github.com/Lightning-AI/litgpt) - number of recipies for model's training, ft and other <b>(l)</b> <img src="https://img.shields.io/github/stars/Lightning-AI/litgpt?style=social" align="center">
+- [autotrain-advanced](https://github.com/huggingface/autotrain-advanced) - ready scripts to fine-tuning HF models <b>(hf)</b> <img src="https://img.shields.io/github/stars/huggingface/autotrain-advanced?style=social" align="center">
 - [Flair](https://github.com/flairNLP/flair) - NLP tools <img src="https://img.shields.io/github/stars/flairNLP/flair?style=social" align="center">
 - [NeMo](https://github.com/NVIDIA/NeMo) - toolkit for model training and inference <img src="https://img.shields.io/github/stars/NVIDIA/NeMo?style=social" align="center">
 - [FastAI](https://github.com/fastai/fastai) - toolkit for CV and NLP <img src="https://img.shields.io/github/stars/fastai/fastai?style=social" align="center">
@@ -77,6 +80,7 @@
 - [torchcodec](https://github.com/pytorch/torchcodec) - video reading into tensors <b>(pt)</b> <img src="https://img.shields.io/github/stars/pytorch/torchcodec?style=social" align="center">
 - [PyTorchVideo](https://github.com/facebookresearch/pytorchvideo) - video utils (new commits, but ignroed pull requests and issues, no PyPI packge update for 3 years) <b>(fr)</b> <img src="https://img.shields.io/github/stars/facebookresearch/pytorchvideo?style=social" align="center">
 - [Fast Forward Computer Vision](https://github.com/libffcv/ffcv) - picture data manipulations and loading (recommended by Meta) <img src="https://img.shields.io/github/stars/libffcv/ffcv?style=social" align="center">
+- [DALI](https://github.com/NVIDIA/DALI) - GPU optimized pipelines creating <img src="https://img.shields.io/github/stars/NVIDIA/DALI?style=social" align="center">
 - [torchattacks](https://github.com/Harry24k/adversarial-attacks-pytorch) - adversarial attacks on images <b>(archived)</b> <img src="https://img.shields.io/github/stars/Harry24k/adversarial-attacks-pytorch?style=social" align="center">
 - [Foolbox](https://github.com/bethgelab/foolbox) - adversarial attacks on image models <img src="https://img.shields.io/github/stars/bethgelab/foolbox?style=social" align="center">
 
