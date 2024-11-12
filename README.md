@@ -65,6 +65,7 @@
 
 
 ## Audio
+- [espnet](https://github.com/espnet/espnet) - audio transformations, datasets and models <b>(pt)</b> <img src="https://img.shields.io/github/stars/espnet/espnet?style=social" align="center">
 - [torchaudio](https://github.com/pytorch/audio) - audio transformations, datasets and models <b>(pt)</b> <img src="https://img.shields.io/github/stars/pytorch/audio?style=social" align="center">
 - [SpeechBrain](https://github.com/speechbrain/speechbrain) - set of transformations (augmentations), models and functions <img src="https://img.shields.io/github/stars/speechbrain/speechbrain?style=social" align="center">
 - [torch-audmentation](https://github.com/asteroid-team/torch-audiomentations) - transformations, augmentations <img src="https://img.shields.io/github/stars/asteroid-team/torch-audiomentations?style=social" align="center">
