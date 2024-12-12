@@ -91,7 +91,8 @@
 - [PyTorch-Geometric-temporal](https://github.com/benedekrozemberczki/pytorch_geometric_temporal) - extensions and research things for PyG <b>(archived)</b> <img src="https://img.shields.io/github/stars/benedekrozemberczki/pytorch_geometric_temporal?style=social" align="center">
 
 ## Other
-- [torchrec](https://github.com/pytorch/torchrec) <b>(pt)</b> <img src="https://img.shields.io/github/stars/pytorch/torchrec?style=social" align="center">
+- [torchrec](https://github.com/pytorch/torchrec) recomendation systems <b>(pt)</b> <img src="https://img.shields.io/github/stars/pytorch/torchrec?style=social" align="center">
+- [torchrl](https://github.com/pytorch/rl) RL <b>(pt)</b> <img src="https://img.shields.io/github/stars/pytorch/rl?style=social" align="center">
 - [diffusers](https://github.com/huggingface/diffusers) - classes and methods for Diffusion models use <b>(hf)</b> <img src="https://img.shields.io/github/stars/huggingface/diffusers?style=social" align="center">
 - [PyRo](https://github.com/pyro-ppl/pyro) - probabilistic programming <img src="https://img.shields.io/github/stars/pyro-ppl/pyro?style=social" align="center">
 - [torchgeo](https://github.com/microsoft/torchgeo) - geo analytics <img src="https://img.shields.io/github/stars/microsoft/torchgeo?style=social" align="center">
