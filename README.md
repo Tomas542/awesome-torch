@@ -42,6 +42,7 @@
 - [optimum](https://github.com/huggingface/optimum) - training and inference optimization techniques <b>(hf)</b> <img src="https://img.shields.io/github/stars/huggingface/optimum?style=social" align="center">
 - [torch-xla](https://github.com/pytorch/xla) - backend for XLA computing <b>(pt)</b> <img src="https://img.shields.io/github/stars/pytorch/xla?style=social" align="center">
 - [PEFT](https://github.com/huggingface/peft) - efficient fine-tuning techniques <b>(hf)</b> <img src="https://img.shields.io/github/stars/huggingface/peft?style=social" align="center">
+- [Torch-Pruner](https://github.com/VainF/Torch-Pruning) - model pruning <img src="https://img.shields.io/github/stars/VainF/Torch-Pruning?style=social" align="center">
 - [Ray](https://github.com/ray-project/ray) - hyperparameter optimizations, distributed training and other <img src="https://img.shields.io/github/stars/ray-project/ray?style=social" align="center">
 
 ## NLP
