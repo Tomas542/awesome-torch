@@ -22,6 +22,7 @@
 - [LitServe](https://github.com/Lightning-AI/LitServe) - scalable serving <b>(l)</b> <img src="https://img.shields.io/github/stars/Lightning-AI/LitServe?style=social" align="center">
 - [TorchServe](https://github.com/pytorch/serve) - serving torch models <b>(pt)</b> <img src="https://img.shields.io/github/stars/pytorch/serve?style=social" align="center">
 - [einops](https://github.com/arogozhnikov/einops) - performant tensor operations <img src="https://img.shields.io/github/stars/arogozhnikov/einops?style=social" align="center">
+- [opt_einsum](https://github.com/dgasmith/opt_einsum) - optimized einsum operations <img src="https://img.shields.io/github/stars/dgasmith/opt_einsum?style=social" align="center">
 - [einx](https://github.com/fferflo/einx) - performant tensor operations in Einstein-Inspired Notation <img src="https://img.shields.io/github/stars/fferflo/einx?style=social" align="center">
 - [Causal convolution 1D](https://github.com/Dao-AILab/causal-conv1d) - optimized causal 1D convolution <img src="https://img.shields.io/github/stars/Dao-AILab/causal-conv1d?style=social" align="center">
 - [Hydra](https://github.com/facebookresearch/hydra) - configuring development <b>(fr)</b> <img src="https://img.shields.io/github/stars/facebookresearch/hydra?style=social" align="center">
@@ -32,6 +33,7 @@
 - [pytorch-optimizer](https://github.com/jettify/pytorch-optimizer) - set of optimziers from research papers <b>(archived)</b> <img src="https://img.shields.io/github/stars/jettify/pytorch-optimizer?style=social" align="center">
 - [schedule_free](https://github.com/facebookresearch/schedule_free) - SGD and Adam implementation with no need to scheduler use <b>(fr)</b> <img src="https://img.shields.io/github/stars/facebookresearch/schedule_free?style=social" align="center">
 - [optimizers](https://github.com/facebookresearch/optimizers) - tensor-optimised optimizers <b>(fr)</b> <img src="https://img.shields.io/github/stars/facebookresearch/optimizers?style=social" align="center">
+- [nevergrad](https://github.com/facebookresearch/nevergrad) - non-gradient optimizations <b>(fr)</b> <img src="https://img.shields.io/github/stars/facebookresearch/nevergrad?style=social" align="center">
 - [apex](https://github.com/NVIDIA/apex) - experimental features (mostly in torch already) <img src="https://img.shields.io/github/stars/NVIDIA/apex?style=social" align="center">
 - [accelerate](https://github.com/huggingface/accelerate) - library for easier distributed training <b>(hf)</b> <img src="https://img.shields.io/github/stars/huggingface/accelerate?style=social" align="center">
 - [thunder](https://github.com/Lightning-AI/lightning-thunder) - different optimization techniques together <b>(l)</b> <img src="https://img.shields.io/github/stars/Lightning-AI/lightning-thunder?style=social" align="center">
