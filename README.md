@@ -1,10 +1,13 @@
 # my-awesome-torch
-[PyTorch](https://github.com/pytorch/pytorch) <b>(pt)</b>  <img src="https://img.shields.io/github/stars/pytorch/pytorch?style=social" align="center">
+List of PyTorch compatible libraries.
 
+## Notation
 - PyTorch - <b>pt</b>
 - Lightning AI - <b>l</b>
-- HuggingFase - <b>hf</b>
+- HuggingFace - <b>hf</b>
 - Facebook Research - <b>fr</b>
+
+[PyTorch](https://github.com/pytorch/pytorch) <b>(pt)</b>  <img src="https://img.shields.io/github/stars/pytorch/pytorch?style=social" align="center">
 
 ## General
 - [Lightning](https://github.com/Lightning-AI/pytorch-lightning) - PyTorch wrapper <b>(l)</b> <img src="https://img.shields.io/github/stars/Lightning-AI/pytorch-lightning?style=social" align="center">
@@ -66,6 +69,7 @@
 -  [LangChain](https://github.com/langchain-ai/langchain) - LLM inference with prompts and tricks to built Chain-of-tasks <img src="https://img.shields.io/github/stars/langchain-ai/langchain?style=social" align="center">
 - [LangGraph](https://github.com/langchain-ai/langgraph) - LLM graphs (RAG, as far as I know) <img src="https://img.shields.io/github/stars/langchain-ai/langgraph?style=social" align="center">
 - [ollama](https://github.com/ollama/ollama) - local LLM inferenece <img src="https://img.shields.io/github/stars/ollama/ollama?style=social" align="center">
+- [milvus](https://github.com/milvus-io/milvus) - vector DB with integration with other libraries <img src="https://img.shields.io/github/stars/milvus-io/milvus?style=social" align="center">
 
 
 ## Audio
