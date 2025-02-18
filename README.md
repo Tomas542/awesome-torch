@@ -70,6 +70,7 @@ List of PyTorch compatible libraries.
 - [LangGraph](https://github.com/langchain-ai/langgraph) - LLM graphs (RAG, as far as I know) <img src="https://img.shields.io/github/stars/langchain-ai/langgraph?style=social" align="center">
 - [ollama](https://github.com/ollama/ollama) - local LLM inferenece <img src="https://img.shields.io/github/stars/ollama/ollama?style=social" align="center">
 - [milvus](https://github.com/milvus-io/milvus) - vector DB with integration with other libraries <img src="https://img.shields.io/github/stars/milvus-io/milvus?style=social" align="center">
+- [LLaMator](https://github.com/RomiconEZ/LLaMator) - LangChain compatable LLM security tester <img src="https://img.shields.io/github/stars/RomiconEZ/LLaMator?style=social" align="center">
 
 
 ## Audio
