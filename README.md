@@ -23,7 +23,7 @@ List of PyTorch compatible libraries.
 - [gradio](https://github.com/gradio-app/gradio) - easy model serving with frontend  <img src="https://img.shields.io/github/stars/gradio-app/gradio?style=social" align="center">
 - [streamlit](https://github.com/streamlit/streamlit) - model serving <img src="https://img.shields.io/github/stars/streamlit/streamlit?style=social" align="center">
 - [LitServe](https://github.com/Lightning-AI/LitServe) - scalable serving <b>(l)</b> <img src="https://img.shields.io/github/stars/Lightning-AI/LitServe?style=social" align="center">
-- [TorchServe](https://github.com/pytorch/serve) - serving torch models <b>(pt)</b> <img src="https://img.shields.io/github/stars/pytorch/serve?style=social" align="center">
+- [TorchServe](https://github.com/pytorch/serve) - serving torch models <b>(pt)</b> <b>(acrhived)</b> <img src="https://img.shields.io/github/stars/pytorch/serve?style=social" align="center">
 - [einops](https://github.com/arogozhnikov/einops) - performant tensor operations <img src="https://img.shields.io/github/stars/arogozhnikov/einops?style=social" align="center">
 - [opt_einsum](https://github.com/dgasmith/opt_einsum) - optimized einsum operations <img src="https://img.shields.io/github/stars/dgasmith/opt_einsum?style=social" align="center">
 - [einx](https://github.com/fferflo/einx) - performant tensor operations in Einstein-Inspired Notation <img src="https://img.shields.io/github/stars/fferflo/einx?style=social" align="center">
@@ -63,6 +63,7 @@ List of PyTorch compatible libraries.
 - [NeMo](https://github.com/NVIDIA/NeMo) - toolkit for model training and inference <img src="https://img.shields.io/github/stars/NVIDIA/NeMo?style=social" align="center">
 - [FastAI](https://github.com/fastai/fastai) - toolkit for CV and NLP <img src="https://img.shields.io/github/stars/fastai/fastai?style=social" align="center">
 - [Liger-Kernel](https://github.com/linkedin/Liger-Kernel) - `tranformers` LLMs optimised with Triton <img src="https://img.shields.io/github/stars/linkedin/Liger-Kernel?style=social" align="center">
+- [FlashInfer](https://github.com/flashinfer-ai/flashinfer) - `GPU kernels for attention, decoding and other stuff <img src="https://img.shields.io/github/stars/flashinfer-ai/flashinfer?style=social" align="center">
 - [unsloth](https://github.com/unslothai/unsloth) - optimised `tranformers` LLMs <img src="https://img.shields.io/github/stars/unslothai/unsloth?style=social" align="center">
 - [xformer](https://github.com/facebookresearch/xformers) - cuda kernels and  <b>(fr)</b><img src="https://img.shields.io/github/stars/facebookresearch/xformers?style=social" align="center">
 - [Turbo-Alignment](https://github.com/turbo-llm/turbo-alignment) - utils for LLM training from T-Bank <img src="https://img.shields.io/github/stars/turbo-llm/turbo-alignment?style=social" align="center">
