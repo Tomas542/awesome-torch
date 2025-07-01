@@ -28,6 +28,7 @@ List of PyTorch compatible libraries.
 - [einops](https://github.com/arogozhnikov/einops) - performant tensor operations <img src="https://img.shields.io/github/stars/arogozhnikov/einops?style=social" align="center">
 - [opt_einsum](https://github.com/dgasmith/opt_einsum) - optimized einsum operations <img src="https://img.shields.io/github/stars/dgasmith/opt_einsum?style=social" align="center">
 - [einx](https://github.com/fferflo/einx) - performant tensor operations in Einstein-Inspired Notation <img src="https://img.shields.io/github/stars/fferflo/einx?style=social" align="center">
+- [Kernels](https://github.com/huggingface/kernels) - triton kernels <b>hf</b><img src="https://img.shields.io/github/stars/huggingface/kernels?style=social" align="center">
 - [Causal convolution 1D](https://github.com/Dao-AILab/causal-conv1d) - optimized causal 1D convolution <img src="https://img.shields.io/github/stars/Dao-AILab/causal-conv1d?style=social" align="center">
 - [Hydra](https://github.com/facebookresearch/hydra) - configuring development <b>(fr)</b> <img src="https://img.shields.io/github/stars/facebookresearch/hydra?style=social" align="center">
 - [ART](https://github.com/Trusted-AI/adversarial-robustness-toolbox) - adversarial attacks on different modalities <img src="https://img.shields.io/github/stars/Trusted-AI/adversarial-robustness-toolbox?style=social" align="center">
