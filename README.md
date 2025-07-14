@@ -14,12 +14,12 @@ List of PyTorch compatible libraries.
 - [Lightning Bolts](https://github.com/Lightning-Universe/lightning-bolts) - additional modules for Lightning <img src="https://img.shields.io/github/stars/Lightning-Universe/lightning-bolts?style=social" align="center">
 - [Lightning Hivemind](https://github.com/Lightning-Universe/lightning-Hivemind) - Lightning extension for multi-node training <img src="https://img.shields.io/github/stars/Lightning-Universe/lightning-Hivemind?style=social" align="center">
 - [Ignite](https://github.com/pytorch/ignite) - wrapper from PyTorch <b>(pt)</b> <img src="https://img.shields.io/github/stars/pytorch/ignite?style=social" align="center">
-- [MONAI](https://github.com/Project-MONAI/MONAI) - medical wrapper from PyTorch <img src="https://img.shields.io/github/stars/Project-MONAI/MONAI?style=social" align="center">
 - [torchmetrics](https://github.com/Lightning-AI/torchmetrics) - metrics, computing on chosen devices <b>(l)</b> <img src="https://img.shields.io/github/stars/Lightning-AI/torchmetrics?style=social" align="center">
 - [evaluate](https://github.com/huggingface/evaluate) - HF collections of metrics <b>(hf)</b> <img src="https://img.shields.io/github/stars/huggingface/evaluate?style=social" align="center">
 - [torcheval](https://github.com/pytorch/torcheval) - set of metrics, that can run on multiple devices <b>(pt)</b> <img src="https://img.shields.io/github/stars/pytorch/torcheval?style=social" align="center">
 - [datasets](https://github.com/huggingface/datasets) - library with map method and ability to work easily with HuggingFace <b>(hf)</b> <img src="https://img.shields.io/github/stars/huggingface/datasets?style=social" align="center">
 - [litdata](https://github.com/Lightning-AI/litdata) - datasets workaround with scaling and other <b>(l)</b> <img src="https://img.shields.io/github/stars/Lightning-AI/litdata?style=social" align="center">
+- [DALI](https://github.com/NVIDIA/DALI) - GPU optimized pipelines creating <img src="https://img.shields.io/github/stars/NVIDIA/DALI?style=social" align="center">
 - [safetensors](https://github.com/huggingface/safetensors) - model saving and storing<b>(hf)</b> <img src="https://img.shields.io/github/stars/huggingface/safetensors?style=social" align="center">
 - [gradio](https://github.com/gradio-app/gradio) - easy model serving with frontend  <img src="https://img.shields.io/github/stars/gradio-app/gradio?style=social" align="center">
 - [streamlit](https://github.com/streamlit/streamlit) - model serving <img src="https://img.shields.io/github/stars/streamlit/streamlit?style=social" align="center">
@@ -65,7 +65,7 @@ List of PyTorch compatible libraries.
 - [NeMo](https://github.com/NVIDIA/NeMo) - toolkit for model training and inference <img src="https://img.shields.io/github/stars/NVIDIA/NeMo?style=social" align="center">
 - [FastAI](https://github.com/fastai/fastai) - toolkit for CV and NLP <img src="https://img.shields.io/github/stars/fastai/fastai?style=social" align="center">
 - [Liger-Kernel](https://github.com/linkedin/Liger-Kernel) - `tranformers` LLMs optimised with Triton <img src="https://img.shields.io/github/stars/linkedin/Liger-Kernel?style=social" align="center">
-- [FlashInfer](https://github.com/flashinfer-ai/flashinfer) - `GPU kernels for attention, decoding and other stuff <img src="https://img.shields.io/github/stars/flashinfer-ai/flashinfer?style=social" align="center">
+- [FlashInfer](https://github.com/flashinfer-ai/flashinfer) - GPU kernels for attention, decoding and other stuff <img src="https://img.shields.io/github/stars/flashinfer-ai/flashinfer?style=social" align="center">
 - [unsloth](https://github.com/unslothai/unsloth) - optimised `tranformers` LLMs <img src="https://img.shields.io/github/stars/unslothai/unsloth?style=social" align="center">
 - [xformer](https://github.com/facebookresearch/xformers) - cuda kernels and  <b>(fr)</b><img src="https://img.shields.io/github/stars/facebookresearch/xformers?style=social" align="center">
 - [Turbo-Alignment](https://github.com/turbo-llm/turbo-alignment) - utils for LLM training from T-Bank <img src="https://img.shields.io/github/stars/turbo-llm/turbo-alignment?style=social" align="center">
@@ -75,14 +75,21 @@ List of PyTorch compatible libraries.
 - [ollama](https://github.com/ollama/ollama) - local LLM inferenece <img src="https://img.shields.io/github/stars/ollama/ollama?style=social" align="center">
 - [milvus](https://github.com/milvus-io/milvus) - vector DB with integration with other libraries <img src="https://img.shields.io/github/stars/milvus-io/milvus?style=social" align="center">
 - [LLaMator](https://github.com/RomiconEZ/LLaMator) - LangChain compatable LLM security tester <img src="https://img.shields.io/github/stars/RomiconEZ/LLaMator?style=social" align="center">
+- [Fairseq](https://github.com/facebookresearch/fairseq) - Seq2Seq PyTorch toolkit <b>(archived)</b> <b>(fr)</b> <img src="https://img.shields.io/github/stars/facebookresearch/fairseq?style=social" align="center">
+- [Fairseq2](https://github.com/facebookresearch/fairseq2) - Seq2Seq PyTorch toolkit <b>(fr)</b> <img src="https://img.shields.io/github/stars/facebookresearch/fairseq2?style=social" align="center">
 
 
 ## Audio
-- [espnet](https://github.com/espnet/espnet) - E2E audio pipelines <img src="https://img.shields.io/github/stars/espnet/espnet?style=social" align="center">
+- [espnet](https://github.com/espnet/espnet) - Audio-toolkit for E2E audio pipelines and modules <img src="https://img.shields.io/github/stars/espnet/espnet?style=social" align="center">
+- [kaldi](https://github.com/kaldi-asr/kaldi) - Audio-toolkit for E2E audio pipelines and modules <img src="https://img.shields.io/github/stars/kaldi-asr/kaldi?style=social" align="center">
+- [k2](https://github.com/k2-fsa/k2) - Audio-toolkit, second version of Kaldi <img src="https://img.shields.io/github/stars/k2-fsa/k2?style=social" align="center">
 - [pyannote](https://github.com/pyannote/pyannote-audio) - speaker diarization <img src="https://img.shields.io/github/stars/pyannote/pyannote-audio?style=social" align="center">
 - [torchaudio](https://github.com/pytorch/audio) - audio transformations, datasets and models <b>(pt)</b> <img src="https://img.shields.io/github/stars/pytorch/audio?style=social" align="center">
 - [SpeechBrain](https://github.com/speechbrain/speechbrain) - set of transformations (augmentations), models and functions <img src="https://img.shields.io/github/stars/speechbrain/speechbrain?style=social" align="center">
 - [torch-audmentation](https://github.com/asteroid-team/torch-audiomentations) - transformations, augmentations <img src="https://img.shields.io/github/stars/asteroid-team/torch-audiomentations?style=social" align="center">
+- [pydub](https://github.com/jiaaro/pydub) - codec augmentations <b>(archived)</b> <img src="https://img.shields.io/github/stars/jiaaro/pydub?style=social" align="center">
+- [WavAugment](https://github.com/facebookresearch/WavAugment) - data augmentations <b>(archived)</b> <b>(fr)</b> <img src="https://img.shields.io/github/stars/facebookresearch/WavAugment?style=social" align="center">
+- [lhotse](https://github.com/lhotse-speech/lhotse) - data augmentations. Part of k2 <img src="https://img.shields.io/github/stars/lhotse-speech/lhotse?style=social" align="center">
 - [dataspeech](https://github.com/huggingface/dataspeech) - audio transformations <b>(hf)</b> <img src="https://img.shields.io/github/stars/huggingface/dataspeech?style=social" align="center">
 - [robust_speech](https://github.com/RaphaelOlivier/robust_speech) - adversarial attacks, based on SpeechBrain <b>(archived)</b> <img src="https://img.shields.io/github/stars/RaphaelOlivier/robust_speech?style=social" align="center">
 - [whisper_attack](https://github.com/RaphaelOlivier/whisper_attack) - adversarial attacks on Whisper <b>(archived)</b> <img src="https://img.shields.io/github/stars/RaphaelOlivier/whisper_attack?style=social" align="center">
@@ -95,9 +102,9 @@ List of PyTorch compatible libraries.
 - [torchcodec](https://github.com/pytorch/torchcodec) - video reading into tensors <b>(pt)</b> <img src="https://img.shields.io/github/stars/pytorch/torchcodec?style=social" align="center">
 - [PyTorchVideo](https://github.com/facebookresearch/pytorchvideo) - video utils (new commits, but ignroed pull requests and issues, no PyPI packge update for 3 years) <b>(fr)</b> <img src="https://img.shields.io/github/stars/facebookresearch/pytorchvideo?style=social" align="center">
 - [Fast Forward Computer Vision](https://github.com/libffcv/ffcv) - picture data manipulations and loading (recommended by Meta) <img src="https://img.shields.io/github/stars/libffcv/ffcv?style=social" align="center">
-- [DALI](https://github.com/NVIDIA/DALI) - GPU optimized pipelines creating <img src="https://img.shields.io/github/stars/NVIDIA/DALI?style=social" align="center">
 - [torchattacks](https://github.com/Harry24k/adversarial-attacks-pytorch) - adversarial attacks on images <b>(archived)</b> <img src="https://img.shields.io/github/stars/Harry24k/adversarial-attacks-pytorch?style=social" align="center">
 - [Foolbox](https://github.com/bethgelab/foolbox) - adversarial attacks on image models <img src="https://img.shields.io/github/stars/bethgelab/foolbox?style=social" align="center">
+- [FastAI](https://github.com/fastai/fastai) - toolkit for CV and NLP <img src="https://img.shields.io/github/stars/fastai/fastai?style=social" align="center">
 
 ## Graph
 - [PyG](https://github.com/pyg-team/pytorch_geometric) - PyTorch Graph NN <img src="https://img.shields.io/github/stars/pyg-team/pytorch_geometric?style=social" align="center">
@@ -112,3 +119,4 @@ List of PyTorch compatible libraries.
 - [gpytorch](https://github.com/cornellius-gp/gpytorch) - Gaussian process library <img src="https://img.shields.io/github/stars/cornellius-gp/gpytorch?style=social" align="center">
 - [boTorch](https://github.com/pytorch/botorch) - bayesian optimizations <b>(pt)</b> <img src="https://img.shields.io/github/stars/pytorch/botorch?style=social" align="center">
 - [torchio](https://github.com/fepegar/torchio) - medical images manipulations <img src="https://img.shields.io/github/stars/fepegar/torchio?style=social" align="center">
+- [MONAI](https://github.com/Project-MONAI/MONAI) - medical wrapper from PyTorch <img src="https://img.shields.io/github/stars/Project-MONAI/MONAI?style=social" align="center">
