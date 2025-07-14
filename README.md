@@ -75,9 +75,6 @@ List of PyTorch compatible libraries.
 - [ollama](https://github.com/ollama/ollama) - local LLM inferenece <img src="https://img.shields.io/github/stars/ollama/ollama?style=social" align="center">
 - [milvus](https://github.com/milvus-io/milvus) - vector DB with integration with other libraries <img src="https://img.shields.io/github/stars/milvus-io/milvus?style=social" align="center">
 - [LLaMator](https://github.com/RomiconEZ/LLaMator) - LangChain compatable LLM security tester <img src="https://img.shields.io/github/stars/RomiconEZ/LLaMator?style=social" align="center">
-- [Fairseq](https://github.com/facebookresearch/fairseq) - Seq2Seq PyTorch toolkit <b>(archived)</b> <b>(fr)</b> <img src="https://img.shields.io/github/stars/facebookresearch/fairseq?style=social" align="center">
-- [Fairseq2](https://github.com/facebookresearch/fairseq2) - Seq2Seq PyTorch toolkit <b>(fr)</b> <img src="https://img.shields.io/github/stars/facebookresearch/fairseq2?style=social" align="center">
-
 
 ## Audio
 - [espnet](https://github.com/espnet/espnet) - Audio-toolkit for E2E audio pipelines and modules <img src="https://img.shields.io/github/stars/espnet/espnet?style=social" align="center">
